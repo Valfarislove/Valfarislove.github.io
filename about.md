@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Vivamus aliquet erat id laoreet posuere. Morbi eget pharetra justo. Suspendisse eget tincidunt ligula. Nam vel dapibus libero, et fringilla magna. Suspendisse potenti. Ut blandit velit at risus sodales ultrices. Morbi a magna tellus. Nunc odio turpis, maximus vitae ligula at, commodo efficitur nisl.
 
 ### Contact me
 
