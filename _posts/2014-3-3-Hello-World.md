@@ -7,4 +7,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In commodo odio condime
 
 ![_config.yml]({{ site.baseurl }}/https://designhammer.com/sites/default/files/vue-components.svg
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
